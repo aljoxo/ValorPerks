@@ -225,9 +225,9 @@ List of Perks in Valor.
  
  - **Battlemaster (20)**: Power Attacks with Two-Handed weapons cost 20% less Stamina
  - **Overpower (40)**: Power Attacks with Two-Handed weapons deal 50% more damage.
- - **Hyper Armor (60)**: You resist 50% of incoming Poise damage while power attacking with a Two-Handed weapon.
+ - **Hyper Armor (80)**: You resist 50% of incoming Poise damage while power attacking with a Two-Handed weapon.
  
- - **Doom Winds (70)**: After performing 5 or more light attacks with Two-Handed weapons, your next power attack releases a gust of wind, staggering nearby enemies. (Can only occur once every 30 seconds).
+ - **Doom Winds (60)**: After performing 5 or more light attacks with Two-Handed weapons, your next power attack releases a gust of wind, staggering nearby enemies. (Can only occur once every 30 seconds).
  - **Heroism (90)**: After unleashing Doom Winds, you are invigorated and restore 100 Stamina over 10 seconds.
 
 # Magic Addon
