@@ -132,7 +132,7 @@ List of Perks in Valor.
  
  - **Ambush (40)**: Attacks with One-Handed weapons deal 50% more damage against targets who are attacking or when striking targets from behind while your left hand is empty.
 
- - **Overwhelming Rage (60)**: While dual wielding, consecutive attacks against the same target deal up to 50% more damage.
+ - **Overwhelming Rage (80)**: While dual wielding, consecutive attacks against the same target deal up to 50% more damage.
  
  - **Corrupted Catalyst (60/90)**: Attacks with a One-Handed weapon deal additional damage / and proc additional effects based on the damage-dealing spell in your off-hand.
 
